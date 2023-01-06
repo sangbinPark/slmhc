@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkjungwon_electronics_homepage=self.webpackChunkjungwon_electronics_homepage||[]).push([[883],{429:function(e,n,u){u.r(n);var c=u(7294);n.default=function(){return c.createElement("div",null,"404")}}}]);
+//# sourceMappingURL=component---src-pages-404-js-cde1e7b122e9ba7ab89d.js.map

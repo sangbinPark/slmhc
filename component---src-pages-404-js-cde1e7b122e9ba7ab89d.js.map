@@ -1,0 +1,1 @@
+{"version":3,"file":"component---src-pages-404-js-cde1e7b122e9ba7ab89d.js","mappings":"qKAQA,UANqB,WACnB,OACE,iCAEH,C","sources":["webpack://jungwon-electronics-homepage/./src/pages/404.js"],"sourcesContent":["import React from 'react';\n\nconst NotFoundPage = () => {\n  return (\n    <div>404</div>\n  );\n}\n\nexport default NotFoundPage;"],"names":[],"sourceRoot":""}
